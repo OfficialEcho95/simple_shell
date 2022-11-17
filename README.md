@@ -1,1 +1,1 @@
-This is a simple shell project
+# This is a simple shell project using C
